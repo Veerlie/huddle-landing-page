@@ -1,5 +1,5 @@
 body{
-    background-image: url("/Users/veerledeboer/Documents/CODE/Front-end Mentor Challenges/huddle-landing-page-with-single-introductory-section-master/images/bg-desktop.svg");
+    background-image: url("./images/bg-desktop.svg");
     background-color: hsl(257, 40%, 49%);
     max-width: 100%;
     max-height: 800px;
